@@ -1,1 +1,1 @@
-# CancerDetect-Empowering-early-cancer-detection-usin-Advanced-AI-and-web-technology
+# CancerDetect-Empowering-early-cancer-detection-using-Advanced-AI-and-web-technologies
